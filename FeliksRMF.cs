@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace MiDaysCommerce.DeviceManager
+namespace DeviceManager
 {
     public class Feliks : IDisposable
     {
